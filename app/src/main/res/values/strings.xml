@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment08</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_choice1">Black</string>
+    <string name="color_choice2">Blue</string>
+    <string name="color_choice3">Green</string>
+    <string name="color_choice4">Red</string>
+    <string name="color_choice5">Yellow</string>
+
+    <string-array name="Cookies_arrays">
+    <item>chocolate chip</item>
+    <item>peanut butter</item>
+    <item>snicker doodle</item>
+    </string-array>
+</resources>
